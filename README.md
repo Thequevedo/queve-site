@@ -1,5 +1,4 @@
 # QuevePec-REPORDUCCION DE PESCADOS Y VENTAS
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
