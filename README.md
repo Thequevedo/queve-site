@@ -220,7 +220,7 @@
       <textarea rows="5" placeholder="Mensaje"></textarea>
       <button type="submit">Enviar</button>
     </form>
-    <iframe class="map" src="https://maps.google.com/maps?q=peru&z=6&output=embed"></iframe>
+    <iframe class="map" src="https://maps.google.com/maps?q=-9.391694,-74.956363&z=15&output=embed"></iframe>
   </section>
 
   <footer>
@@ -233,3 +233,4 @@
   </footer>
 </body>
 </html>
+
